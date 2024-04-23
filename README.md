@@ -1,3 +1,8 @@
+API can be used on subscription based plan, please message me here for more information 
+
+
+
+
 # WhatsApp API Endpoints
 
 This repository contains documentation for the endpoints of a WhatsApp API, which provides various functionalities for interacting with WhatsApp services. Below is a list of available endpoints along with their descriptions and request methods.
